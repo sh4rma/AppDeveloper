@@ -1,0 +1,10 @@
+node_modules/
+.env
+
+uploads/apks/*
+uploads/icons/*
+uploads/screenshots/*
+
+!uploads/apks/.gitkeep
+!uploads/icons/.gitkeep
+!uploads/screenshots/.gitkeep
