@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://backend-hm0m4nl-hritik-sharmas-projects.vercel.app/api";
 
 
 // ==========================================
